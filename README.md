@@ -5,12 +5,12 @@ Esta API proporciona funcionalidades básicas de autenticación y acceso a datos
 
 Para levantar el proyecto:
 
-{composer install
-cp .env.example .env
-php artisan migrate
-php artisan db:seed --class=UsersTableSeeder
+    composer install
+    cp .env.example .env
+    php artisan migrate
+    php artisan db:seed --class=UsersTableSeeder
 
-php artisan serve}
+    php artisan serve
 
 
 
