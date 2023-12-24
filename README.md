@@ -13,6 +13,7 @@ Para levantar el proyecto localmente:
     php artisan serve
 
 Para levantar el proyecto con docker:
+
     docker-compose up -d
 
 
