@@ -3,7 +3,7 @@ Documentación de API de Laravel
 Esta API proporciona funcionalidades básicas de autenticación y acceso a datos de usuarios. Se compone de dos principales endpoints: uno para el inicio de sesión (login) y otro para obtener la lista de usuarios. La idea de este proyecto es que se pueda utilizar de base para otros endpoints.
 
 
-Para levantar el proyecto:
+Para levantar el proyecto localmente:
 
     composer install
     cp .env.example .env
@@ -11,6 +11,9 @@ Para levantar el proyecto:
     php artisan db:seed --class=UsersTableSeeder
 
     php artisan serve
+
+Para levantar el proyecto con docker:
+    docker-compose up -d
 
 
 
