@@ -52,5 +52,3 @@ Notas Adicionales
     Asegúrese de que su servidor local esté en ejecución (php artisan serve) para acceder a estos endpoints.
     Para probar la API, puede usar herramientas como Postman o cURL.
     Recuerde actualizar las credenciales en los ejemplos de acuerdo con los usuarios definidos en sus seeders.
-
-Esta documentación provee una guía básica para interactuar con tu API. Dependiendo del público objetivo (desarrolladores, usuarios finales, etc.), podrías querer añadir más detalles o explicaciones sobre cómo instalar y configurar el entorno necesario para utilizar la API.
