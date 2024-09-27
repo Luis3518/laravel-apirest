@@ -52,3 +52,6 @@ Notas Adicionales
     Asegúrese de que su servidor local esté en ejecución (php artisan serve) para acceder a estos endpoints.
     Para probar la API, puede usar herramientas como Postman o cURL.
     Recuerde actualizar las credenciales en los ejemplos de acuerdo con los usuarios definidos en sus seeders.
+
+
+Se agregaron acciones(add, edit, delete), se puede importar en postman el archivo lararest.postman_collections
